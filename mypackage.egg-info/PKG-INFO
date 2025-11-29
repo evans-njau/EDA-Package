@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: 
+Author: Evans Njau
+Author-email: evansn873@gmail.com
+License: MIT
+Requires-Dist: Numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
